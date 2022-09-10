@@ -1,0 +1,108 @@
+/*==============header==============*/
+.wrapper {
+}
+.header__page {
+}
+.title__header {
+  color: red;
+}
+/*===============nav=================*/
+#list-house > h2 {
+  color: blue;
+}
+.nav-list li {
+  color: rgb(69, 37, 105);
+}
+/*===================targarian==========*/
+.targarien-house__page,
+.lanister-house__page {
+  color: rgb(42, 87, 5);
+}
+.targarien-items {
+}
+.targarien-item__1 p {
+  color: rgb(55, 22, 131);
+}
+
+.targarien-item__2 {
+  color: rgb(21, 170, 125);
+}
+.targarien-item__3 {
+  color: rgb(29, 15, 92);
+}
+span {
+  color: rgb(5, 5, 68);
+}
+.targarien-items h3 {
+  color: rgb(187, 94, 6);
+}
+/*===========================stark==========*/
+
+.stark-house__page {
+}
+.stark-items p {
+  color: rgb(26, 81, 191);
+}
+.stark-item__1 h3 {
+  color: blueviolet;
+}
+.stark-item__2 h3 {
+  color: rgba(14, 162, 95, 0.447);
+}
+
+#guard-stark {
+  color: rgb(226, 43, 110);
+}
+/*===========================lanister=======*/
+.lanister-house__page {
+}
+.lanister-items {
+}
+.lanister-item__1 p {
+  color: rgb(55, 22, 131);
+}
+.lanister-item__2 {
+  color: rgb(21, 170, 125);
+}
+.lanister-item__3 {
+  color: rgb(70, 92, 15);
+}
+#histori-lanister {
+  color: fuchsia;
+}
+#conquest-lanister {
+  color: gold;
+}
+/*===================barateon===========*/
+.barateon-house__page {
+  color: darkcyan;
+}
+.barateon-items {
+}
+.barateon-item__1 {
+}
+.barateon-item__2 {
+}
+.barateon-item__3 {
+}
+.barateon-house__page h3 {
+  color: maroon;
+}
+#barateon {
+  color: darkslategrey;
+}
+/*================greyjoy============*/
+.greyjoy-house__page h3 {
+  color: teal;
+}
+.greyjoy-items {
+}
+
+.greyjoy-item__2 > p {
+  color: darkgreen;
+}
+
+.greyjoy-item__3 > p {
+  color: steelblue;
+}
+/*================footer============*/
